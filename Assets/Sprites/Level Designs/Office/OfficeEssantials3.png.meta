@@ -1,0 +1,1443 @@
+fileFormatVersion: 2
+guid: 4db02779bb5c6ac4e97d0157c8c14710
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7719728086971366737
+    second: OfficeEssantials3_0
+  - first:
+      213: -2078119324475927986
+    second: OfficeEssantials3_1
+  - first:
+      213: 1242197075075686313
+    second: OfficeEssantials3_2
+  - first:
+      213: 7601254749746167633
+    second: OfficeEssantials3_3
+  - first:
+      213: 4342900977230656452
+    second: OfficeEssantials3_4
+  - first:
+      213: 3916000571760198175
+    second: OfficeEssantials3_5
+  - first:
+      213: -5028113574772761683
+    second: OfficeEssantials3_6
+  - first:
+      213: 8286040504020151787
+    second: OfficeEssantials3_7
+  - first:
+      213: 6514586824016117756
+    second: OfficeEssantials3_8
+  - first:
+      213: -117872164058150860
+    second: OfficeEssantials3_9
+  - first:
+      213: 7223382687328168318
+    second: OfficeEssantials3_10
+  - first:
+      213: -1468414382965571975
+    second: OfficeEssantials3_11
+  - first:
+      213: 2819708949923815618
+    second: OfficeEssantials3_12
+  - first:
+      213: 7998177948522355446
+    second: OfficeEssantials3_13
+  - first:
+      213: 2513309059623696216
+    second: OfficeEssantials3_14
+  - first:
+      213: 6110970231541403842
+    second: OfficeEssantials3_15
+  - first:
+      213: 8779521256483597435
+    second: OfficeEssantials3_16
+  - first:
+      213: -1643511817069003373
+    second: OfficeEssantials3_17
+  - first:
+      213: -5761133270501581905
+    second: OfficeEssantials3_18
+  - first:
+      213: -9168752223794735459
+    second: OfficeEssantials3_19
+  - first:
+      213: -317971178531574492
+    second: OfficeEssantials3_20
+  - first:
+      213: -7204305368534126765
+    second: OfficeEssantials3_21
+  - first:
+      213: -683841482283673661
+    second: OfficeEssantials3_22
+  - first:
+      213: -6069738263159247128
+    second: OfficeEssantials3_23
+  - first:
+      213: 3521134373162891601
+    second: OfficeEssantials3_24
+  - first:
+      213: -1828587777248064995
+    second: OfficeEssantials3_25
+  - first:
+      213: 4114389131621111219
+    second: OfficeEssantials3_26
+  - first:
+      213: 4630035113461480717
+    second: OfficeEssantials3_27
+  - first:
+      213: 1443963560729169371
+    second: OfficeEssantials3_28
+  - first:
+      213: 5196169752240834509
+    second: OfficeEssantials3_29
+  - first:
+      213: -2314430087667519969
+    second: OfficeEssantials3_30
+  - first:
+      213: 8106633209015354434
+    second: OfficeEssantials3_31
+  - first:
+      213: 2503547990581343975
+    second: OfficeEssantials3_32
+  - first:
+      213: -1973293369754203999
+    second: OfficeEssantials3_33
+  - first:
+      213: -3755218452975183582
+    second: OfficeEssantials3_34
+  - first:
+      213: -2755886060593974637
+    second: OfficeEssantials3_35
+  - first:
+      213: -8675461854316253851
+    second: OfficeEssantials3_36
+  - first:
+      213: -4080643445894822472
+    second: OfficeEssantials3_37
+  - first:
+      213: 4459964156522178854
+    second: OfficeEssantials3_38
+  - first:
+      213: 6170305893441561453
+    second: OfficeEssantials3_39
+  - first:
+      213: 3125506821777231520
+    second: OfficeEssantials3_40
+  - first:
+      213: 6261982644204121377
+    second: OfficeEssantials3_41
+  - first:
+      213: -1552027853361573321
+    second: OfficeEssantials3_42
+  - first:
+      213: -2464553696670047877
+    second: OfficeEssantials3_43
+  - first:
+      213: 7440025208887026355
+    second: OfficeEssantials3_44
+  - first:
+      213: 3411850234024220798
+    second: OfficeEssantials3_45
+  - first:
+      213: -6247986640639556976
+    second: OfficeEssantials3_46
+  - first:
+      213: -7195618847441713585
+    second: OfficeEssantials3_47
+  - first:
+      213: 553153761824457837
+    second: OfficeEssantials3_48
+  - first:
+      213: 72083625519563875
+    second: OfficeEssantials3_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: OfficeEssantials3_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 521
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15db8825bcbf12b60800000000000000
+      internalID: 7719728086971366737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 521
+        width: 28
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42dcb71c790923e0800000000000000
+      internalID: -2078119324475927986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 521
+        width: 28
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9af5ae888ab2d3110800000000000000
+      internalID: 1242197075075686313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 521
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ffed5fbe41d7960800000000000000
+      internalID: 7601254749746167633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 521
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3b78add65154c30800000000000000
+      internalID: 4342900977230656452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_5
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 488
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f124efba5cd685630800000000000000
+      internalID: 3916000571760198175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 492
+        width: 18
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab9955085d883ab0800000000000000
+      internalID: -5028113574772761683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_7
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 490
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedae94efededf270800000000000000
+      internalID: 8286040504020151787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_8
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 459
+        width: 24
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cffbbef5336786a50800000000000000
+      internalID: 6514586824016117756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 365
+        width: 187
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438486c24eb3d5ef0800000000000000
+      internalID: -117872164058150860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_10
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 460
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79e6e2784c9e3460800000000000000
+      internalID: 7223382687328168318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_11
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 459
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e334016e42f9be0800000000000000
+      internalID: -1468414382965571975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_12
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 460
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0e23ab95e912720800000000000000
+      internalID: 2819708949923815618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_13
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 448
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa9900d77c3ffe60800000000000000
+      internalID: 7998177948522355446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_14
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 448
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85734ad064111e220800000000000000
+      internalID: 2513309059623696216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_15
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 452
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0130c5c078ec450800000000000000
+      internalID: 6110970231541403842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_16
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 455
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c22be111027d970800000000000000
+      internalID: 8779521256483597435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_17
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 436
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39df177c5b21139e0800000000000000
+      internalID: -1643511817069003373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_18
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 436
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab911470d75c00b0800000000000000
+      internalID: -5761133270501581905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_19
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 436
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d96542b3e6c02c080800000000000000
+      internalID: -9168752223794735459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_20
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 419
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d20d6d5e6569bf0800000000000000
+      internalID: -317971178531574492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_21
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 419
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6517ff6a250c90800000000000000
+      internalID: -7204305368534126765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_22
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 419
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c71ec58bc18286f0800000000000000
+      internalID: -683841482283673661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 421
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eeebc06535f3cba0800000000000000
+      internalID: -6069738263159247128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_24
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 423
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 159bace7e059dd030800000000000000
+      internalID: 3521134373162891601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 411
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1a0288da1d8f96e0800000000000000
+      internalID: -1828587777248064995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_26
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 405
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b51102cd1f391930800000000000000
+      internalID: 4114389131621111219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_27
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 411
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0df47b9760314040800000000000000
+      internalID: 4630035113461480717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_28
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 367
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bddced1453df90410800000000000000
+      internalID: 1443963560729169371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_29
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 367
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc7c1f2fbd08c1840800000000000000
+      internalID: 5196169752240834509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_30
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 367
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ee91ff81e71efd0800000000000000
+      internalID: -2314430087667519969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_31
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 367
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244cebbe3fb808070800000000000000
+      internalID: 8106633209015354434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_32
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 367
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e67eb012a36eb220800000000000000
+      internalID: 2503547990581343975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_33
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 367
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a8ca2a92247d94e0800000000000000
+      internalID: -1973293369754203999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 259
+        width: 39
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2291c6886b8c2ebc0800000000000000
+      internalID: -3755218452975183582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_35
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 293
+        width: 70
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39278dcaa3021c9d0800000000000000
+      internalID: -2755886060593974637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_36
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 294
+        width: 70
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d270778619a9780800000000000000
+      internalID: -8675461854316253851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_37
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 330
+        width: 44
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b5c968f764ae57c0800000000000000
+      internalID: -4080643445894822472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_38
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 330
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 629aa7c35c9f4ed30800000000000000
+      internalID: 4459964156522178854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_39
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 330
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d636516b48451a550800000000000000
+      internalID: 6170305893441561453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_40
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 325
+        width: 12
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ae871f05e7006b20800000000000000
+      internalID: 3125506821777231520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_41
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 324
+        width: 12
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12da279990807e650800000000000000
+      internalID: 6261982644204121377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_42
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 324
+        width: 11
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7321fdee3e6167ae0800000000000000
+      internalID: -1552027853361573321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_43
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 201
+        width: 50
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b712b1c78752ccdd0800000000000000
+      internalID: -2464553696670047877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_44
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 212
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2a9af2287404760800000000000000
+      internalID: 7440025208887026355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 24
+        width: 113
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e78d8d906b3595f20800000000000000
+      internalID: 3411850234024220798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_46
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 130
+        width: 96
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0920b4be041ba49a0800000000000000
+      internalID: -6247986640639556976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_47
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 24
+        width: 11
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f46812348c6042c90800000000000000
+      internalID: -7195618847441713585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_48
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 24
+        width: 12
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d64c7b76a623da700800000000000000
+      internalID: 553153761824457837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: OfficeEssantials3_49
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 59
+        width: 96
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364473deca7100100800000000000000
+      internalID: 72083625519563875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      OfficeEssantials3_0: 7719728086971366737
+      OfficeEssantials3_1: -2078119324475927986
+      OfficeEssantials3_10: 7223382687328168318
+      OfficeEssantials3_11: -1468414382965571975
+      OfficeEssantials3_12: 2819708949923815618
+      OfficeEssantials3_13: 7998177948522355446
+      OfficeEssantials3_14: 2513309059623696216
+      OfficeEssantials3_15: 6110970231541403842
+      OfficeEssantials3_16: 8779521256483597435
+      OfficeEssantials3_17: -1643511817069003373
+      OfficeEssantials3_18: -5761133270501581905
+      OfficeEssantials3_19: -9168752223794735459
+      OfficeEssantials3_2: 1242197075075686313
+      OfficeEssantials3_20: -317971178531574492
+      OfficeEssantials3_21: -7204305368534126765
+      OfficeEssantials3_22: -683841482283673661
+      OfficeEssantials3_23: -6069738263159247128
+      OfficeEssantials3_24: 3521134373162891601
+      OfficeEssantials3_25: -1828587777248064995
+      OfficeEssantials3_26: 4114389131621111219
+      OfficeEssantials3_27: 4630035113461480717
+      OfficeEssantials3_28: 1443963560729169371
+      OfficeEssantials3_29: 5196169752240834509
+      OfficeEssantials3_3: 7601254749746167633
+      OfficeEssantials3_30: -2314430087667519969
+      OfficeEssantials3_31: 8106633209015354434
+      OfficeEssantials3_32: 2503547990581343975
+      OfficeEssantials3_33: -1973293369754203999
+      OfficeEssantials3_34: -3755218452975183582
+      OfficeEssantials3_35: -2755886060593974637
+      OfficeEssantials3_36: -8675461854316253851
+      OfficeEssantials3_37: -4080643445894822472
+      OfficeEssantials3_38: 4459964156522178854
+      OfficeEssantials3_39: 6170305893441561453
+      OfficeEssantials3_4: 4342900977230656452
+      OfficeEssantials3_40: 3125506821777231520
+      OfficeEssantials3_41: 6261982644204121377
+      OfficeEssantials3_42: -1552027853361573321
+      OfficeEssantials3_43: -2464553696670047877
+      OfficeEssantials3_44: 7440025208887026355
+      OfficeEssantials3_45: 3411850234024220798
+      OfficeEssantials3_46: -6247986640639556976
+      OfficeEssantials3_47: -7195618847441713585
+      OfficeEssantials3_48: 553153761824457837
+      OfficeEssantials3_49: 72083625519563875
+      OfficeEssantials3_5: 3916000571760198175
+      OfficeEssantials3_6: -5028113574772761683
+      OfficeEssantials3_7: 8286040504020151787
+      OfficeEssantials3_8: 6514586824016117756
+      OfficeEssantials3_9: -117872164058150860
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

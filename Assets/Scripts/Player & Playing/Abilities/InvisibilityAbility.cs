@@ -1,0 +1,108 @@
+using UnityEngine;
+using TMPro;
+using System.Collections;
+
+public class InvisibilityAbility : Ability, IInitializableAbility
+{
+    [Header("UI")]
+    private TMP_Text specialPowerText;
+
+    [Header("Audio")]
+    [SerializeField] private AudioClip activeSound;
+    [SerializeField] private AudioClip invisibleSound;
+
+    [Header("VFX")]
+    [SerializeField] private ParticleSystem readyEffectPrefab;
+
+    [Header("Settings")]
+    [SerializeField] private float cooldown = 10f;
+    [SerializeField] private float invisibleDuration = 3f;
+    [SerializeField] private float invisibleAlpha = 0.5f;
+
+    private bool canUse = true;
+    public bool isInvisible;
+
+    private AudioSource audioSource;
+    private SpriteRenderer spriteRenderer;
+
+    private void Awake()
+    {
+        audioSource = GetComponent<AudioSource>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
+
+        SetAbilityReady(true);
+    }
+
+    public void SetUI(TMP_Text ui)
+    {
+        specialPowerText = ui;
+
+        specialPowerText.gameObject.SetActive(canUse);
+    }
+
+    public override void Activate(PlayerController player)
+    {
+        if (!canUse)
+            return;
+
+        canUse = false;
+
+        if (invisibleSound)
+            audioSource.PlayOneShot(invisibleSound);
+
+        SetAbilityReady(false);
+
+        StartCoroutine(InvisibleRoutine(player));
+    }
+
+    private IEnumerator InvisibleRoutine(PlayerController player)
+    {
+        isInvisible = true;
+        SetAlpha(invisibleAlpha);
+
+        yield return new WaitForSeconds(invisibleDuration);
+
+        isInvisible = false;
+        SetAlpha(1f);
+
+        yield return new WaitForSeconds(cooldown);
+
+        canUse = true;
+
+        SetAbilityReady(true);
+
+        if (activeSound)
+            audioSource.PlayOneShot(activeSound);
+
+        PlayReadyEffect(player);
+    }
+
+    private void SetAlpha(float alpha)
+    {
+        Color color = spriteRenderer.color;
+        color.a = alpha;
+        spriteRenderer.color = color;
+    }
+
+    private void SetAbilityReady(bool ready)
+    {
+        if (specialPowerText != null)
+            specialPowerText.gameObject.SetActive(ready);
+    }
+
+    private void PlayReadyEffect(PlayerController player)
+    {
+        if (readyEffectPrefab == null || player == null)
+            return;
+
+        ParticleSystem fx = Instantiate(
+            readyEffectPrefab,
+            player.transform.position,
+            Quaternion.identity
+        );
+
+        fx.Play();
+
+        Destroy(fx.gameObject, 2f);
+    }
+}

@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 3
+  tags:
+  - Enemy
+  - Door
+  - Object
+  - DeathText
+  - PauseText
+  - SpecialPowerText
+  - Weapon
+  - PointText
+  - ComboText
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bullet
+  - Obstacle
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Menu
+    uniqueID: 3537610347
+    locked: 0
+  - name: 'Characters '
+    uniqueID: 1454736997
+    locked: 0
+  - name: VFX
+    uniqueID: 1678205117
+    locked: 0
+  m_RenderingLayers:
+  - Default
