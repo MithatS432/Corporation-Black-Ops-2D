@@ -94,20 +94,13 @@ A fast-paced 2D top-down action game combining enemy-clearing combat, character 
 
 ## 📸 Screenshots
 
-![Gameplay 1](Assets/Images/1.png)
-![Gameplay 2](Assets/Images/2.png)
-![Gameplay 3](Assets/Images/3.png)
-![Gameplay 4](Assets/Images/4.png)
-![Gameplay 5](Assets/Images/5.png)
-![Gameplay 6](Assets/Images/6.png)
-![Gameplay 7](Assets/Images/7.png)
-![Gameplay 8](Assets/Images/8.png)
+<p align="center"> <img src="Assets/Images/1.png" width="260"/> <img src="Assets/Images/2.png" width="260"/> <img src="Assets/Images/3.png" width="260"/> <img src="Assets/Images/4.png" width="260"/> <img src="Assets/Images/5.png" width="260"/> <img src="Assets/Images/6.png" width="260"/> <img src="Assets/Images/7.png" width="260"/> <img src="Assets/Images/8.png" width="260"/> </p>
 
 ---
 
 ## 🎬 Gameplay Preview
 
-![Gameplay GIF](Assets/Gif/Gameplay.gif)
+<p align="center"> <img src="Assets/Gif/Gameplay.gif" width="420"/> </p>
 
 ---
 
