@@ -7,10 +7,6 @@ A fast-paced 2D top-down action game combining enemy-clearing combat, character 
 ## 🎬 Inspired By
 This project draws inspiration from **Hotline Miami 2: Wrong Number** — particularly its fast-paced top-down combat, level-based structure, and audio-driven atmosphere.
 
-<p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Hotline_Miami_2_cover.jpg" width="200"/>
-</p>
-
 ---
 
 ## 🎯 Core Gameplay Loop
