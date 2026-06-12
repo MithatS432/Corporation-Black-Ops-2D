@@ -1,6 +1,6 @@
 # 🎮 Corporation Black Ops 2D
 
-A fast-paced 2D top-down action game combining enemy-clearing combat, character progression, and level-based challenge structure. Designed with modular Unity architecture, scalable gameplay systems, and lightweight performance considerations for real-time mobile/desktop execution.
+A fast-paced 2D top-down action game combining enemy-clearing combat, character progression, and level-based challenge structure. Designed with modular Unity architecture, scalable gameplay systems, and lightweight performance considerations for responsive real-time gameplay.
 
 ---
 
@@ -93,7 +93,7 @@ This project draws inspiration from **Hotline Miami 2: Wrong Number** — partic
 - Engine: Unity (2D)
 - Language: C#
 - Architecture: OOP + Singleton + Modular Design
-- Target Platform: PC / Mobile
+- Target Platform: PC
 
 ---
 
